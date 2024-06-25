@@ -1,0 +1,44 @@
+[25-06-2024] [08:13:52.680 PM] => App Launched
+[25-06-2024] [08:18:33.386 PM] => App Launched
+[25-06-2024] [08:18:37.735 PM] => App closed - Used for 285079 ms
+
+[25-06-2024] [08:18:41.491 PM] => App Launched
+[25-06-2024] [08:18:46.601 PM] => App closed - Used for 5128 ms
+
+[25-06-2024] [08:25:01.911 PM] => App Launched
+[25-06-2024] [08:29:18.646 PM] => App closed - Used for 256748 ms
+
+[25-06-2024] [08:30:45.007 PM] => App Launched
+[25-06-2024] [08:33:17.295 PM] => App closed - Used for 152303 ms
+
+[25-06-2024] [08:33:40.325 PM] => App Launched
+[25-06-2024] [08:33:42.842 PM] => App closed - Used for 2531 ms
+
+[25-06-2024] [08:36:25.663 PM] => App Launched
+[25-06-2024] [08:36:38.489 PM] => App closed - Used for 12840 ms
+
+[25-06-2024] [08:36:58.759 PM] => App Launched
+[25-06-2024] [08:37:07.419 PM] => App closed - Used for 8676 ms
+
+[25-06-2024] [08:38:23.135 PM] => App Launched
+[25-06-2024] [08:40:38.811 PM] => App Launched
+[25-06-2024] [08:41:43.043 PM] => App closed - Used for 64245 ms
+
+[25-06-2024] [08:42:46.450 PM] => App Launched
+[25-06-2024] [08:42:49.880 PM] => App closed - Used for 3444 ms
+
+[25-06-2024] [08:43:24.524 PM] => App Launched
+[25-06-2024] [08:43:44.051 PM] => App closed - Used for 19543 ms
+
+[25-06-2024] [09:05:40.713 PM] => App Launched
+[25-06-2024] [09:06:13.865 PM] => App closed - Used for 33167 ms
+
+[25-06-2024] [09:36:05.169 PM] => App Launched
+[25-06-2024] [09:36:24.730 PM] => App closed - Used for 19574 ms
+
+[25-06-2024] [09:43:54.964 PM] => App Launched
+[25-06-2024] [09:43:58.427 PM] => App closed - Used for 3477 ms
+
+[25-06-2024] [09:44:32.769 PM] => App Launched
+[25-06-2024] [09:45:14.995 PM] => App closed - Used for 42241 ms
+
